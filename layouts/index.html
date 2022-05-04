@@ -6,7 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2 mt-5" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">查看知识库</a>
+      <a class="btn btn-primary btn-lg px-4 mb-2 mt-5" href="/docs/intro/" role="button">查看知识库</a>
       <a class="btn btn-primary btn-lg px-4 mb-2 mt-5" href="/blog/" role="button">查看博客页</a>
       <!-- <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p> -->
     </div>

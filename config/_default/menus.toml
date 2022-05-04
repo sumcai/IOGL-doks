@@ -30,7 +30,7 @@
 
 [[main]]
   name = "知识库"
-  url = "/docs/02.笔记/01.opengl技术/01.收集的opengl资源/"
+  url = "/docs/intro/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
