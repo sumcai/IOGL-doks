@@ -1,4 +1,4 @@
-baseurl = "http://iogl.cn/"
+baseurl = "http://www.iogl.cn/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

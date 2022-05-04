@@ -12,7 +12,7 @@ description = "深入探讨网联网动态，架构设计，工具使用，源�
 ## Open Graph
 images = ["logo.png"]
 ogLocale = "zh_CN"
-domainTLD = "iogl.cn"
+domainTLD = "www.iogl.cn"
 titleHome = "IOGL"
 
 ## Twitter Cards
