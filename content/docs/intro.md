@@ -1,6 +1,6 @@
 ---
 title: 说明
-date: 2022-05-05 22:54:31
+date: 2022-05-02 22:54:31
 permalink: /statement/
 ---
 
